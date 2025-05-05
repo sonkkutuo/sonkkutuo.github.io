@@ -5,8 +5,12 @@ background-color: #CBB799
 }
  h1{ 
 font-family: Serif;
-  color: #000000
+  color: #000000;
   font-size: 180%; 
+ p {
+  font-family: Serif;
+  font-size: 120%;
+ }
 
 }
 table, th, td { 
