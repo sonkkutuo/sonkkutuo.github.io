@@ -4,7 +4,9 @@ background-color: #CBB799
 
 }
  h1{ 
-font-family: sans-serif;
+font-family: Serif;
+  color: #000000
+  font-size: 180%; 
 
 }
 table, th, td { 
@@ -14,3 +16,4 @@ table, th, td {
 tr: hover{background-color:FFFFFF}
 
 }
+
