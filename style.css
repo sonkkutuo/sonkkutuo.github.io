@@ -7,6 +7,9 @@ background-color: #CBB799
 font-family: sans-serif;
 
 }
+table, th, td { 
+ border: 2px solid black;
+ border-collapse: collapse;
 tr: hover{background-color:FFFFFF}
 
 }
