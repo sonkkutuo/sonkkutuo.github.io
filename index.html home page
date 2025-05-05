@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+ <html> 
+    <head>
+     <link rel="stylesheet" href="style.css">
+         <title>Sonja Tuovinen CV</title> 
+        </head> 
+        <body>
+           <h1>Home page</h1> 
+          
+             <p>Hello, my name is Sonja Tuovinen and I'm a 20-year-old studentI'm currently studying business information technology (ITBBA) in Haaga-Helia UAS</p>
+            <p> I'm a very athletic person, I go to the gym a lot, love walking and other activities outdoors. I love spending time both alone and with the people around me. 
+            Although I consider myself an introvert, I am very social and like company</p>
+         <img src="Cv.jpg" alt="My CV picture" height= "400" width= "260">
+
+         <p> Contact information:
+         Phonenumber: +358456014855 <br>
+         Email address: sonjatuovinen01@gmail.com <br>
+          <br>
+         I have more information about myself on the two other pages 'Introduction' and on 'Resume'. In the introduction I tell a bit more about myself, my hobbies, lifestyle and personality. <br>
+          In the resume on the other hand I focus mainly on my past job experiences and the skills I have. 
+          All of these pages together will give the reader a somewhat good understanding of me as a person, as a student and as an employee.</p>
+           
+             </body> 
+             </html>
